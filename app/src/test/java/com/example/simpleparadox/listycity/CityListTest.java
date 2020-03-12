@@ -19,7 +19,7 @@ class CityListTest {
     
     @Test
     void testSimpleAddition(){
-        assertEquals(3, 1+1);
+        assertEquals(2, 1+1);
     }
 
     @Test
